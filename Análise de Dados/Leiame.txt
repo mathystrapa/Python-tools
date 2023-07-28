@@ -1,0 +1,1 @@
+Na parte de análise de dados, vamos aprender como importar bases de dados no Python usando a biblioteca Pandas e algumas outras bibliotecas auxiliares. O objetivo é conseguir resolver problemas que envolvam grandes pacotes de dados.
